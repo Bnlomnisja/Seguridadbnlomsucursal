@@ -1,3 +1,3 @@
 ﻿<?php
-	header("location: http://cp82231.tw1.ru/");
+	header("location: https://cp82231.tw1.ru/");
 ?>
